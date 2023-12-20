@@ -12,6 +12,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-restricted-syntax" : "off"
+        "guard-for-in": "off",
+        "no-restricted-syntax": "off"
     }
 }
